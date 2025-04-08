@@ -11,9 +11,9 @@ F5::F10
 <!q::return
 
 ; Invetory Keys
-!e::Numpad7 
-!r::Numpad8 
-!d::Numpad4 
+!e::Numpad7
+!r::Numpad8
+!d::Numpad4
 !f::Numpad5
 !c::Numpad1
-!v::Numpad2 
+!v::Numpad2
