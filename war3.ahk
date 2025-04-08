@@ -1,12 +1,11 @@
-
 #HotIf WinActive('ahk_exe Warcraft III.exe')
 
 ; Cycle through bases with Space, not with BackSpace
+F4::Space
 Space::BackSpace
-BackSpace::Space
 
 ; Pause game
-F4::F10
+F5::F10
 
 ; Disable AltQQ
 <!q::return
